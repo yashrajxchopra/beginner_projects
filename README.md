@@ -1,3 +1,3 @@
-# beginner_projects
+# Beginner Projects
 Low level beginner projects.
 1. [TicTacToe](https://github.com/yashrajxchopra/beginner_projects/tree/main/TicTacToe) made using Java.
