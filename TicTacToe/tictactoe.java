@@ -138,7 +138,7 @@ public class tictactoe {
 		}
 		else
 		{
-			ticktactocpu obb = new ticktactocpu();
+			ticktactoecpu obb = new ticktactoecpu();
 			if(x == 0 || x % 2 == 0)
 			{
 				move = sc.next();
